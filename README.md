@@ -30,6 +30,7 @@
 
 <br>
 
+
 ## 🏆 Experiências e conquistas:
 <ul>
   <li><strong>Medalha de Prata | MOBFOG </strong>(Mostra Brasileira de Foguetes, 2023);</li>
@@ -38,3 +39,10 @@
   <li><strong>Voluntária de Comunicação e Engajamento | FIRST Robotics Girls (FRG).</strong></li>
 </ul>
 
+ ##
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giimendonca/giimendonca/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giimendonca/giimendonca/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/giimendonca/giimendonca/output/github-snake.svg" />
+</picture>
