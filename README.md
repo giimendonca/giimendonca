@@ -3,6 +3,8 @@
  🔭 Trabalhando no meu TCC do técnico em ADS <br>
  📚 Estou estudando JavaScript
 
+ [![Linkedin](https://img.shields.io/badge/linkedin-%230e76a8.svg?style=for-the-badge&logo=linkedin&logoColor=%23ffffff)](https://www.linkedin.com/in/giovanamendon%C3%A7araimundo/)
+
 <br>
 
 ## 🧰 Ferramentas
